@@ -1,0 +1,13 @@
+
+W
+java:S1118":Add a private constructor to hide the implicit public one.(—ëÆ­8ˆ‹ÌÄ–2
+V
+java:S3252	"9Use static access with "org.openqa.selenium.By" for "id".(ïÊ¼8Š‹ÌÄ–2
+G
+java:S1874	"*Remove this use of "By"; it is deprecated.(ïÊ¼8‹‹ÌÄ–2
+[
+java:S3252
+"9Use static access with "org.openqa.selenium.By" for "id".(ß‰Ôüÿÿÿÿ8‹‹ÌÄ–2
+L
+java:S1874
+"*Remove this use of "By"; it is deprecated.(ß‰Ôüÿÿÿÿ8‹‹ÌÄ–2

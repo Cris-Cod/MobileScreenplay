@@ -1,0 +1,25 @@
+
+}
+java:S1118":Add a private constructor to hide the implicit public one.(·…õ–8Üñÿ›2J$ea9d5f77-c1ae-441c-b820-4647fe852bad
+
+java:S3252"9Use static access with "org.openqa.selenium.By" for "id".(•äšĞûÿÿÿÿ8àñÿ›2J$f7159dcf-46bb-4180-9d51-d64e81b676a9
+r
+java:S1874"*Remove this use of "By"; it is deprecated.(•äšĞûÿÿÿÿ8àñÿ›2J$86e90bdd-1d75-4f6b-a3a0-4af7bcb8347a
+|
+java:S3252	"9Use static access with "org.openqa.selenium.By" for "id".(Óéš®8ä„‚›2J$4a1a87c5-a8ff-4045-b535-f28cf002d6a8
+m
+java:S1874	"*Remove this use of "By"; it is deprecated.(Óéš®8å„‚›2J$78253de9-241f-4602-a6df-649c295131c4
+|
+java:S3252
+"9Use static access with "org.openqa.selenium.By" for "id".(™Û²8áË†‚›2J$bc937c17-b3b4-4532-97bd-c5bd3e0dc803
+m
+java:S1874
+"*Remove this use of "By"; it is deprecated.(™Û²8áË†‚›2J$a526cc44-aba8-4824-93e2-521e14d0e41e
+
+java:S3252"9Use static access with "org.openqa.selenium.By" for "id".(ü”íıÿÿÿÿ8Ò§‰‚›2J$fabc6d85-4208-475b-8ba2-78cafc2a8ed4
+r
+java:S1874"*Remove this use of "By"; it is deprecated.(ü”íıÿÿÿÿ8Ò§‰‚›2J$0c7cab7d-cdb6-4928-9b25-3b3936ba3f0b
+
+java:S3252"9Use static access with "org.openqa.selenium.By" for "id".(Ææà‡ùÿÿÿÿ8…¨Æƒ›2J$fb355e34-1dd8-422f-b442-6ef31121aef5
+r
+java:S1874"*Remove this use of "By"; it is deprecated.(Ææà‡ùÿÿÿÿ8†¨Æƒ›2J$7db25a1c-866c-4040-8105-4d0b9bedb968
